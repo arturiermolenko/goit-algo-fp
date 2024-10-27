@@ -1,1 +1,3 @@
 # goit-algo-fp
+## Monte Carlo Dice Roll Simulation
+This project performs a Monte Carlo simulation of rolling two six-sided dice 1,000,000 times to calculate the probabilities of each possible sum (from 2 to 12). Comparison of the simulation results with analytical probabilities shows a high degree of accuracy, confirming the effectiveness of the Monte Carlo method in approximating probabilistic outcomes in this scenario.
